@@ -1,5 +1,5 @@
-# Archived
+# KUBERA Local AI 2 — legacy experiment
 
-**archived, not a product**
+This repository is retained as an old local-AI experiment. It is **inactive**, but it is not archived on GitHub.
 
-This repository is retained only as an old local-AI experiment. Active KUBERA agent development is not tracked here.
+Active KUBERA agent development is maintained in the private `kubera-local-ai` core and the public KUBERA LAB reference material in [jobkubera-lab/jobkubera-lab](https://github.com/jobkubera-lab/jobkubera-lab).
